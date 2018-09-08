@@ -1,0 +1,19 @@
+h1 {text-align: center;}
+h2 {text-align: center; border-bottom: 1px solid;}
+p {text-align: center;}
+img.one {
+    height: 50%;
+    width: 50%;
+}
+img.two {
+    height: 50%;
+    width: 50%;
+}
+img.three {
+    height: 50%;
+    width: 50%;
+}
+img.four {
+    height: 50%;
+    width: 50%;
+}
